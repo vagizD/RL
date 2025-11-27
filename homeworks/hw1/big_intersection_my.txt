@@ -1,0 +1,14 @@
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1.08e+03 |
+|    ep_rew_mean     | -22.7    |
+| time/              |          |
+|    episodes        | 16       |
+|    fps             | 13       |
+|    time_elapsed    | 1260     |
+|    total_timesteps | 17280    |
+| train/             |          |
+|    learning_rate   | 0.001    |
+|    loss            | 79.3     |
+|    target_update   | 1        |
+---------------------------------
